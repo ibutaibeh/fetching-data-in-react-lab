@@ -4,7 +4,7 @@ main {
   padding: 16px 32px;
 }
 
-section ul {
+ul {
   padding: 0;
   display: grid;
   grid-gap: 16px;
